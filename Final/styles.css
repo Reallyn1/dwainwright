@@ -16,6 +16,11 @@ nav {
   padding: 0 2rem;
 }
 
+.description {
+  background: e9ec35;
+  border-radius: 6px;
+}
+
 nav a {
   text-decoration: none;
   color: #000;
@@ -46,6 +51,11 @@ nav a {
   justify-content: center;
   align-items: center;
   padding: 0 2rem;
+}
+
+.content-links {
+  background: e9ec35;
+  border-radius: 6px;
 }
 
 .content-persona {
