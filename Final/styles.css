@@ -66,6 +66,10 @@ nav a {
   border-radius: 6px;
 }
 
+img {
+  width: 300px;
+}
+
 @media screen and (max-width: 768px) {
   .content-container {
     grid-template-columns: 1fr;
