@@ -66,9 +66,24 @@ nav a {
   border-radius: 6px;
 }
 
-img {
-  width: 30%;
-  height: 30%;
+.content-persona {
+  width: 100%
+  height: 100%
+}
+
+.content-cursedclash {
+  width: 55%
+  height: 55%
+}
+
+.content-helldivers {
+  width: 100%
+  height: 100%
+}
+
+.content-squad {
+  width: 100%
+  height: 100%
 }
 
 @media screen and (max-width: 768px) {
