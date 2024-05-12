@@ -50,7 +50,7 @@ nav a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  padding: 0 2rem;
+  padding: 0 4rem;
 }
 
 .column-right {
@@ -58,7 +58,7 @@ nav a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  padding: 0 2rem;
+  padding: 0 4rem;
 }
 
 .content-links {
