@@ -23,6 +23,10 @@ nav {
   background: #009EFF;
 }
 
+.nav-suicidesquad {
+  background: #00D8FF;
+}
+
 .logo  {
   color: #000;
   font-size: 2rem;
@@ -52,6 +56,11 @@ nav a {
   background: #FF008F;
   height: 100vh;
 
+.content-suicidesquad {
+  background: #FFEC00;
+  height: 100vh;
+}
+
 .content-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -79,6 +88,12 @@ nav a {
   position: absolute;
   left: 0px;
   bottom: 6px;
+}
+
+.image5 {
+  position: absolute;
+  left: 0px;
+  bottom: 4px;
 }
 
 .text {
