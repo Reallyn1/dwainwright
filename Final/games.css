@@ -15,6 +15,10 @@ nav {
   text-align: justify;
 }
 
+.nav-helldivers2 {
+	background: #009EFF;
+}
+
 .logo  {
   color: #000;
   font-size: 2rem;
@@ -35,6 +39,11 @@ nav a {
   padding: 0 2rem;
 }
 
+.content-helldivers2 {
+	background: #FFE000;
+	height: 100vh;
+}
+
 .content-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -51,6 +60,13 @@ nav a {
   left: 0px;
   bottom: 6px;
 }
+
+.image3 {
+	position: absolute;
+	left: 0px;
+	bottom: 33px;
+}
+
 .text {
 	font-size: 1.5em;
 }
