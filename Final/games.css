@@ -16,7 +16,11 @@ nav {
 }
 
 .nav-helldivers2 {
-	background: #009EFF;
+  background: #009EFF;
+}
+
+.nav-cursedclash {
+  background: #009EFF;
 }
 
 .logo  {
@@ -40,9 +44,13 @@ nav a {
 }
 
 .content-helldivers2 {
-	background: #FFE000;
-	height: 100vh;
+  background: #FFE000;
+  height: 100vh;
 }
+
+.content-cursedclash {
+  background: #FF008F;
+  height: 100vh;
 
 .content-container {
   display: grid;
@@ -62,14 +70,21 @@ nav a {
 }
 
 .image3 {
-	position: absolute;
-	left: 0px;
-	bottom: 33px;
+  position: absolute;
+  left: 0px;
+  bottom: 33px;
+}
+
+.image4 {
+  position: absolute;
+  left: 0px;
+  bottom: 6px;
 }
 
 .text {
-	font-size: 1.5em;
+  font-size: 1.5em;
 }
+
 .score {
   color: #000;
   font-size: 3em;
