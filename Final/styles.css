@@ -1,5 +1,5 @@
 nav {
-  height: 80px;
+  height: 20px;
   background: #5FC2FE;
   display: flex;
   justify-content: space-between;
@@ -17,7 +17,7 @@ nav {
 }
 
 .description {
-  background: e9ec35;
+  background: #e9ec35;
   border-radius: 6px;
 }
 
@@ -34,8 +34,8 @@ nav a {
 .content-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 80px;
-  padding: 50rem;
+  height: 40px;
+  padding: 3rem;
 }
 
 .column-left {
@@ -48,13 +48,14 @@ nav a {
 
 .column-right {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   padding: 0 2rem;
 }
 
 .content-links {
-  background: e9ec35;
+  background: #e9ec35;
   border-radius: 6px;
 }
 
@@ -64,8 +65,8 @@ nav a {
 }
 
 .content-cursedclash {
-  width: 100%
-  height: 100%
+  width: 55%
+  height: 55%
 }
 
 .content-helldivers {
