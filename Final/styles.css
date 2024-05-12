@@ -67,8 +67,18 @@ nav a {
 }
 
 img {
-  width: 30%;
-  height: 30%;
+  width: 50%;
+  height: 50%;
+}
+
+.content-persona {
+  width: 350px;
+  height: 350px;
+}
+
+.content-cursedclash {
+  width: 350px;
+  height: 350px;
 }
 
 @media screen and (max-width: 768px) {
