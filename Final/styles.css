@@ -73,12 +73,12 @@ img {
 
 .content-persona {
   width: 350px;
-  height: 350px;
+  height: 150px;
 }
 
 .content-cursedclash {
   width: 350px;
-  height: 350px;
+  height: 150px;
 }
 
 @media screen and (max-width: 768px) {
